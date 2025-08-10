@@ -13,8 +13,9 @@ Languages: Java, JavaScript, Python, C
 Front-end: React, HTML, CSS, Pug
 Back-end: Node.js, Express.js
 Database: MongoDB
+Frameworks : React JS, Next JS
 Other: Git, API Development
-🔹 Projects:
+🔹 Projects: Instafam
 
 🎬 YouTube Clone – A multi-page video streaming platform
 ✍️ Blogstar – A full-stack blogging website with authentication, contact forms, and database storage
