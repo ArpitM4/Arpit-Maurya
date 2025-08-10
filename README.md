@@ -1,97 +1,84 @@
+<div align="center">
+
+  <img src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="A cool coding desk setup with multiple monitors"/>
+
+  <h1>
+    Hey there, I'm Arpit Maurya 👋
+  </h1>
+
+  <h3>A Full-Stack Developer turning ideas into scalable web applications.</h3>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a passionate developer and a B.Tech IT student at **Delhi Technological University (DTU)**, with a strong foundation in building full-stack applications. I thrive on the challenge of creating clean, efficient code and designing user experiences that are both beautiful and intuitive. My current focus is on mastering advanced system design and front-end architectures to build the next generation of web platforms.
+
+- 🔭 &nbsp; I’m currently building **Instafam**, a monetization and community platform for creators.
+- 🌱 &nbsp; I’m deepening my knowledge in **system design, cloud infrastructure, and advanced React patterns.**
+- 🤝 &nbsp; I’m open to collaborating on **innovative open-source projects** that solve real-world problems.
+- 💬 &nbsp; Ask me about **Next.js, Node.js, MongoDB, and the creator economy.**
+
+---
+
+### 🚀 Languages and Tools
+
+This is my toolbox. I use these technologies to bring my projects to life.
+
 <p align="center">
-<img src="https://www.google.com/search?q=https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D1260%26h%3D750%26dpr%3D2" alt="A cool coding desk setup"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,js,html,css,java,python,c,git,github,vscode,postman&perline=8" />
+  </a>
 </p>
 
-<h1 align="center">
-Hey there, I'm Arpit Maurya 👋
-</h1>
+---
 
-<h3 align="center">
-Full-Stack Developer | Tech Enthusiast | B.Tech IT Student @ DTU
-</h3>
+### 📊 My GitHub Stats
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
-</a>
-<a href="mailto:arpitmaurya_it24a08_029@dtu.ac.in">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"/>
-</a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Arpit-Maurya&show_icons=true&theme=dracula&hide_border=true&count_private=true&" alt="Arpit's GitHub Stats" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Maurya&layout=compact&theme=dracula&hide_border=true" alt="Arpit's Top Languages" />
 </p>
 
-👨‍💻 About Me
-I'm a passionate developer building scalable and responsive web applications from the ground up. As a student at Delhi Technological University, I'm driven by the challenge of solving real-world problems with clean, efficient code. I'm currently diving deep into advanced front-end technologies and system design principles to build seamless user experiences.
+---
 
-🌱 I’m currently learning about advanced Next.js patterns and micro-frontend architectures.
+### 🏆 Featured Project
 
-👯 I’m looking to collaborate on innovative open-source projects.
+<table>
+  <tr>
+    <td>
+      <a href="https://www.instafam.social" target="_blank">
+        <img src="https://user-images.githubusercontent.com/28697303/178822629-6232759e-1081-42b7-a37a-9694e9f50630.png" alt="Instafam Project Screenshot" width="300px"/>
+      </a>
+    </td>
+    <td>
+      <h3><a href="https://www.instafam.social" target="_blank">Instafam - Creator Monetization Platform</a></h3>
+      <p>
+        A full-stack web application designed to empower creators by providing a suite of tools to monetize their content and build a loyal community. It features a gamified "leaderboard" system, a virtual currency ("Fam Points"), an exclusive content "Vault," and a complete notification and follow system.
+      </p>
+      <p>
+        <strong>Tech Stack:</strong> Next.js, Node.js, MongoDB, NextAuth.js, Tailwind CSS, Cloudinary.
+      </p>
+    </td>
+  </tr>
+</table>
 
-🥅 2025 Goals: Launch a successful SaaS product and contribute to a major open-source library.
+---
 
-🚀 My Tech Stack
-Here are the technologies I work with. I'm always excited to learn more!
+### 📫 Let's Connect
 
-Frontend
+I'm always open to connecting and talking about technology, startups, or interesting projects.
 
-Backend
-
-Database
-
-Tools & Others
-
-React Next.js JavaScript
-
-Node.js Express.js
-
-MongoDB
-
-Git GitHub API Development
-
-HTML5 CSS3 Tailwind CSS
-
-Python
-
-
-
-Java C
-
-📈 My GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DArpit-Maurya%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Arpit's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DArpit-Maurya%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Arpit's Top Languages" />
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:arpitmaurya_it24a08_029@dtu.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
-
-🏆 Featured Project
-<details>
-<summary><strong>InstaFam - Creator Monetization Platform</strong></summary>
-
-<br>
-
-Instafam is a full-stack web application designed to empower creators by providing them with a suite of tools to monetize their content and build a loyal community. It features a gamified "leaderboard" system, a virtual currency ("Fam Points"), and an exclusive content "Vault."
-
-Tech Stack: Next.js, Node.js, MongoDB, NextAuth.js, Tailwind CSS.
-
-Key Features: Real-time notifications, event-based payouts, creator dashboards, and a points-based economy.
-
-Status: In active development, preparing for beta launch.
-
-</details>
-
-<details>
-<summary><strong>Other Projects</strong></summary>
-
-<br>
-
-🎬 YouTube Clone: A multi-page video streaming platform built with React and Node.js.
-
-✍️ Blogstar: A full-stack blogging website with authentication, contact forms, and database storage.
-
-</details>
-
-📫 Let's Connect!
-I'm always open to connecting with other developers, students, and entrepreneurs. Feel free to reach out if you want to talk about tech, collaborate on a project, or just say hi!
-
-Email: arpitmaurya_it24a08_029@dtu.ac.in
