@@ -9,7 +9,7 @@
 ---
 
 ## 🔹 About Me
-💻 Passionate developer experienced in **React, Node.js, MongoDB, and JavaScript**.  
+💻 Passionate developer experienced in **React, Next.js, Node.js, MongoDB, and JavaScript**.  
 ⚡ Enjoy building **scalable and responsive web apps**.  
 🎯 Currently exploring **advanced front-end development** to level up my skills.
 
@@ -18,13 +18,13 @@
 ## 🛠 Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 **Front-End:**  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
@@ -68,8 +68,8 @@ Full-stack **blogging website** with authentication, contact forms, and MongoDB 
   <a href="mailto:arpitmaurya_it24a08_029@dtu.ac.in">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://github.com/Arpit-Maurya">
-    <img src="https://img.shields.io/badge/GitHub-Arpit--Maurya-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/ArpitM4">
+    <img src="https://img.shields.io/badge/GitHub-ArpitM4-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/arpit-maurya">
     <img src="https://img.shields.io/badge/LinkedIn-Arpit%20Maurya-blue?style=for-the-badge&logo=linkedin" />
@@ -79,10 +79,10 @@ Full-stack **blogging website** with authentication, contact forms, and MongoDB 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arpit-Maurya&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arpit-Maurya&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArpitM4&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArpitM4&theme=tokyonight" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arpit-Maurya&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitM4&layout=compact&theme=tokyonight" height="150"/>
 </p>
