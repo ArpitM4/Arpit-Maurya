@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Arpit Maurya</h1>
-<h3 align="center">🚀 Tech Enthusiast | Full-Stack Developer | IT Student at DTU</h3>
+<h3 align="center">🚀 Tech Enthusiast | Full-Stack Developer | 2nd Year IT Student at DTU</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+Full-Stack+Developer;Always+Learning+New+Tech;Loves+Building+Scalable+Apps;Open+to+Collaboration" alt="Typing SVG" />
