@@ -46,11 +46,13 @@
 
 ## 🚀 Projects
 
-### 📱 Instafam  
-A virtual goods marketplace for creators — fans buy “Fam Points” to unlock digital content & perks.
+### 📱 Instafam  (https://www.instafam.social/)
+Instafam is a monetization platform that helps creators build a fan economy. It features gamified leaderboard events for instant earnings and a "Creator's Vault" where fans redeem "Fam Points" for exclusive content.
 
-### 🎬 YouTube Clone  
-Multi-page **video streaming platform** with authentication & responsive UI.
+
+### 🎬 DTU Times Website  (https://dtu-times-arpit.vercel.app/)
+Full-stack web application for the DTU Times, serving as both a public-facing digital publication and a private content management system (CMS).
+The frontend is built with Next.js and Tailwind CSS to display magazine editions and blogs to readers. The backend is a Node.js/Express REST API that uses a MongoDB database and JWT authentication, allowing authorized editors to perform full CRUD operations on all content..
 
 ### ✍️ Blogstar  
 Full-stack **blogging website** with authentication, contact forms, and MongoDB storage.
